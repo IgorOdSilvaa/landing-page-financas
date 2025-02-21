@@ -297,10 +297,11 @@ button:hover {
 }
 
 .about-desc {
-    list-style: disc;
-    font-size: 1.25rem;
+    list-style: none;
+    font-size: 1rem;
     display: grid;
     row-gap: .5rem;
+    text-align: center;
 }
 
 .about-btn {
